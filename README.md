@@ -1,13 +1,7 @@
 # Adam-o1 - AI Agent Builder
 
-<img src="public/adam-o1.png" alt="adam-o1 Logo" />
+![adam-o1](https://github.com/user-attachments/assets/a2b96f69-cbe0-47cf-84d0-8ad9989db5ea)
 
-<div align="center" style="margin-top: 20px;margin-bottom: 30px">
-
-<h3>🚀 **CURRENT VERSION** 🚀</h3>
-
-**[ V4 - Massive Streamlit UI Overhaul ]**
-*Comprehensive dashboard interface for managing Adam-o1 with Streamlit*
 
 </div>
 
