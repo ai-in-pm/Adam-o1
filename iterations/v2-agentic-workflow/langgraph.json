@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./adam-o1_graph.py:agentic_flow"
+  },
+  "env": ".env"
+}

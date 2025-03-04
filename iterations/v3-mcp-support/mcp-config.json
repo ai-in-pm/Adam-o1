@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "adam-o1": {
+      "command": "[path to Adam-o1]\\adam-o1\\venv\\Scripts\\python.exe",
+      "args": [
+        "[path to Adam-o1]\\adam-o1\\mcp_server.py"
+      ]
+    }
+  }
+}
