@@ -18,7 +18,7 @@ click==8.1.8
 cohere==5.13.12
 colorama==0.4.6
 Crawl4AI==0.4.247
-cryptography==43.0.3
+cryptography==44.0.1
 Deprecated==1.2.15
 deprecation==2.1.0
 distro==1.9.0
@@ -71,7 +71,7 @@ langgraph-checkpoint==2.0.10
 langgraph-cli==0.1.71
 langgraph-sdk==0.1.51
 langsmith==0.3.6
-litellm==1.57.8
+litellm==1.61.15
 logfire==3.1.0
 logfire-api==3.1.0
 lxml==5.3.0
